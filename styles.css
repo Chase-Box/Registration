@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+.show-flex{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    border-style: dotted;
+    border-color: black;
+}
